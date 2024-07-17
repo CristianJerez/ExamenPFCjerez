@@ -102,7 +102,7 @@ export default {
 }
 
 .container {
-    width: 100%;
+    width: 80%;
     max-width: 600px;
     padding: 20px;
     border-radius: 10px;
