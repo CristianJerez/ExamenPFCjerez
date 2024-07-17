@@ -30,6 +30,10 @@ header h1 {
 }
 
 nav {
+  display: flex;
+  justify-content: center;
+  padding: 10px 30px;
+  align-items: center;
   margin-top: 10px;
 }
 
